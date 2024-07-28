@@ -1,1 +1,2 @@
-# https-github.com-mabe-flores-practica-algebra
+# Práctica Álgebra
+Maria Betania Flores
